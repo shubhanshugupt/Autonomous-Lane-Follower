@@ -1,4 +1,4 @@
-#Program to collect the datasets
+#Program to collect the datasets using a hardware RC car on a Raspberyy Pi3 controller
 #Date 2/3/2019
 
 import RPi.GPIO as GPIO
