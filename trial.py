@@ -1,3 +1,5 @@
+#Program to collect the datasets
+
 import RPi.GPIO as GPIO
 import time
 import readchar
